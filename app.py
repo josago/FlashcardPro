@@ -15,11 +15,11 @@ from PyQt5.QtCore    import Qt
 from PyQt5.QtGui     import QFont
 from PyQt5.QtWidgets import QApplication, QComboBox, QGridLayout, QLabel, QLineEdit, QPushButton, QScrollArea, QTabWidget, QTextEdit, QWidget
 
-APP_VERSION          = '0.1.2'
+APP_VERSION          = '0.1.3'
 APP_NAME             = 'Flashcard Pro'
 APP_CARDS_PER_REVIEW = 20
 APP_WRITING_WORDS    = 10
-APP_BACKEND_LLM      = 'gpt-4-0125-preview'
+APP_BACKEND_LLM      = 'gpt-4o'
 APP_STAGE_COLORS     = (
     '#DD0093',  # Apprentice
     '#882D9E',  # Guru
@@ -227,6 +227,8 @@ class TabCardReview(QWidget):
 
             if card['nextReview'] is not None and card['nextReview'] <= datetime.datetime.now():
                 cards_to_review.append(card)
+
+        random.shuffle(cards_to_review)
 
         return cards_to_review
 
