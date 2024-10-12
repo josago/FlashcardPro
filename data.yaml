@@ -11,13 +11,13 @@ cards:
   target: selama
 - english: friendly
   lastReviewFailures: 0
-  nextReview: 2024-09-02 23:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: ramah / bersahabat
 - english: easy
   lastReviewFailures: 0
-  nextReview: 2024-09-25 09:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: gampang / mudah
 - english: difficult
   lastReviewFailures: 0
@@ -40,9 +40,9 @@ cards:
   stage: 8
   target: liburan
 - english: farmer
-  lastReviewFailures: 1
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: petani
 - english: cook
   lastReviewFailures: 0
@@ -56,13 +56,13 @@ cards:
   target: satu-satunya
 - english: every
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: setiap
 - english: change (things)
   lastReviewFailures: 0
-  nextReview: 2024-06-10 23:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: ganti
 - english: news
   lastReviewFailures: 0
@@ -76,8 +76,8 @@ cards:
   target: setelah / sesudah
 - english: often
   lastReviewFailures: 0
-  nextReview: 2024-07-17 16:00:00
-  stage: 6
+  nextReview: 2025-01-30 09:00:00
+  stage: 7
   target: sering
 - english: swim
   lastReviewFailures: 0
@@ -86,8 +86,8 @@ cards:
   target: renang
 - english: weekend
   lastReviewFailures: 0
-  nextReview: 2024-09-02 22:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: akhir pekan
 - english: ingredient
   lastReviewFailures: 0
@@ -96,8 +96,8 @@ cards:
   target: bahan
 - english: never
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: tidak pernah
 - english: according to
   lastReviewFailures: 0
@@ -111,8 +111,8 @@ cards:
   target: akhir
 - english: cloudy (will rain)
   lastReviewFailures: 1
-  nextReview: 2024-07-04 21:00:00
-  stage: 5
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: mendung
 - english: busy (traffic)
   lastReviewFailures: 0
@@ -126,8 +126,8 @@ cards:
   target: ramai
 - english: busy (activities)
   lastReviewFailures: 0
-  nextReview: 2024-06-06 18:00:00
-  stage: 1
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: sibuk / repot-repot / padat
 - english: complete
   lastReviewFailures: 0
@@ -150,19 +150,19 @@ cards:
   stage: 8
   target: kembalian
 - english: born
-  lastReviewFailures: 2
-  nextReview: 2024-07-04 20:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-07 12:00:00
+  stage: 6
   target: lahir
 - english: still
   lastReviewFailures: 0
-  nextReview: 2024-09-25 12:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: masih / tetap
 - english: miss
   lastReviewFailures: 0
-  nextReview: 2024-04-26 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: rindu / kangen
 - english: happy
   lastReviewFailures: 0
@@ -176,8 +176,8 @@ cards:
   target: ketika
 - english: to decide
   lastReviewFailures: 0
-  nextReview: 2024-06-27 20:00:00
-  stage: 4
+  nextReview: 2024-10-17 09:00:00
+  stage: 5
   target: putuskan
 - english: (surf) board
   lastReviewFailures: 0
@@ -236,33 +236,33 @@ cards:
   target: (ber)beda
 - english: another one
   lastReviewFailures: 0
-  nextReview: 2024-10-10 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: yang lain
 - english: cucumber
   lastReviewFailures: 0
-  nextReview: 2024-07-03 12:00:00
-  stage: 6
+  nextReview: 2025-01-29 15:00:00
+  stage: 7
   target: timun
 - english: side dish
   lastReviewFailures: 0
-  nextReview: 2024-06-27 20:00:00
-  stage: 4
+  nextReview: 2024-10-24 09:00:00
+  stage: 5
   target: lauk
 - english: at least
   lastReviewFailures: 0
-  nextReview: 2024-07-02 17:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: setidaknya
 - english: until / arrive
-  lastReviewFailures: 1
-  nextReview: 2024-06-22 08:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-14 10:00:00
+  stage: 3
   target: sampai
 - english: leftover food
   lastReviewFailures: 0
-  nextReview: 2024-04-25 08:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: makanan sisa
 - english: continue
   lastReviewFailures: 0
@@ -281,18 +281,18 @@ cards:
   target: bungkus
 - english: late
   lastReviewFailures: 0
-  nextReview: 2024-07-18 20:00:00
-  stage: 6
+  nextReview: 2025-01-29 15:00:00
+  stage: 7
   target: terlambat
 - english: comfortable
   lastReviewFailures: 0
-  nextReview: 2024-07-03 12:00:00
-  stage: 6
+  nextReview: 2025-01-30 08:00:00
+  stage: 7
   target: nyaman
 - english: safe
   lastReviewFailures: 0
-  nextReview: 2024-05-12 04:00:00
-  stage: 5
+  nextReview: 2024-10-31 09:00:00
+  stage: 6
   target: aman
 - english: next time
   lastReviewFailures: 0
@@ -301,18 +301,18 @@ cards:
   target: lain kali
 - english: another time
   lastReviewFailures: 0
-  nextReview: 2024-04-22 13:00:00
-  stage: 6
+  nextReview: 2025-01-30 08:00:00
+  stage: 7
   target: lain kali
 - english: sleeve / arm
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-30 12:00:00
+  stage: 7
   target: lengan
 - english: size
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: ukuran
 - english: negociate / bargain
   lastReviewFailures: 0
@@ -355,9 +355,9 @@ cards:
   stage: 8
   target: surut
 - english: high tide
-  lastReviewFailures: 1
-  nextReview: 2024-06-19 09:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: pasang
 - english: famous
   lastReviewFailures: 0
@@ -365,9 +365,9 @@ cards:
   stage: 8
   target: terkenal
 - english: lucky
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: beruntung
 - english: almost finished (things)
   lastReviewFailures: 0
@@ -431,8 +431,8 @@ cards:
   target: habiskan
 - english: brush teeth
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: sikat gigi
 - english: to pee
   lastReviewFailures: 0
@@ -445,19 +445,19 @@ cards:
   stage: 8
   target: buang air besar
 - english: pray
-  lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  lastReviewFailures: 1
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: berdoa
 - english: take off (clothes)
   lastReviewFailures: 0
-  nextReview: 2024-07-02 17:00:00
-  stage: 6
+  nextReview: 2025-01-31 17:00:00
+  stage: 7
   target: lepas
 - english: say goodbye
-  lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-24 08:00:00
+  stage: 5
   target: pamitan
 - english: wash
   lastReviewFailures: 0
@@ -470,14 +470,14 @@ cards:
   stage: 8
   target: swasta
 - english: break (noun)
-  lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  lastReviewFailures: 1
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: istirahat
 - english: then / last
   lastReviewFailures: 0
-  nextReview: 2024-09-02 23:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: lalu
 - english: relax
   lastReviewFailures: 0
@@ -485,9 +485,9 @@ cards:
   stage: 8
   target: santai
 - english: what are you doing?
-  lastReviewFailures: 1
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-01 14:00:00
+  stage: 6
   target: sedang apa? / ngapain?
 - english: of course
   lastReviewFailures: 0
@@ -496,8 +496,8 @@ cards:
   target: tentu saja
 - english: helping
   lastReviewFailures: 0
-  nextReview: 2024-07-18 13:00:00
-  stage: 6
+  nextReview: 2025-02-01 11:00:00
+  stage: 7
   target: membantu
 - english: medicine
   lastReviewFailures: 0
@@ -540,14 +540,14 @@ cards:
   stage: 8
   target: kalau kamu?
 - english: shopping
-  lastReviewFailures: 1
-  nextReview: 2024-06-18 17:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-06 15:00:00
+  stage: 6
   target: belanja
 - english: join
   lastReviewFailures: 0
-  nextReview: 2024-06-03 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: ikut
 - english: get used to
   lastReviewFailures: 0
@@ -565,9 +565,9 @@ cards:
   stage: 8
   target: sim
 - english: train
-  lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  lastReviewFailures: 1
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: kereta
 - english: walk
   lastReviewFailures: 0
@@ -580,14 +580,14 @@ cards:
   stage: 8
   target: turun
 - english: tell / say
-  lastReviewFailures: 1
-  nextReview: 2024-06-20 14:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: kasih tau
 - english: give
-  lastReviewFailures: 1
-  nextReview: 2024-07-04 20:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: kasih
 - english: bring
   lastReviewFailures: 0
@@ -601,8 +601,8 @@ cards:
   target: sampah
 - english: foreign
   lastReviewFailures: 0
-  nextReview: 2024-04-26 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: asing
 - english: wide
   lastReviewFailures: 0
@@ -611,13 +611,13 @@ cards:
   target: luas
 - english: guest
   lastReviewFailures: 0
-  nextReview: 2024-06-21 20:00:00
-  stage: 2
+  nextReview: 2024-10-19 11:00:00
+  stage: 4
   target: tamu
 - english: garden
   lastReviewFailures: 0
-  nextReview: 2024-10-10 20:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: kebun
 - english: look around
   lastReviewFailures: 0
@@ -626,8 +626,8 @@ cards:
   target: lihat-lihat
 - english: update me
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-29 15:00:00
+  stage: 7
   target: kabari saya
 - english: choice
   lastReviewFailures: 0
@@ -675,9 +675,9 @@ cards:
   stage: 8
   target: ikuti
 - english: plant
-  lastReviewFailures: 0
-  nextReview: 2024-06-07 12:00:00
-  stage: 3
+  lastReviewFailures: 1
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: tanaman / tumbuhan
 - english: neighbour
   lastReviewFailures: 0
@@ -686,8 +686,8 @@ cards:
   target: tetangga
 - english: in the middle
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: di tengah
 - english: good at (something)
   lastReviewFailures: 0
@@ -696,8 +696,8 @@ cards:
   target: jago
 - english: arrange
   lastReviewFailures: 0
-  nextReview: 2024-07-09 14:00:00
-  stage: 1
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: atur / menata
 - english: game
   lastReviewFailures: 0
@@ -706,18 +706,18 @@ cards:
   target: permainan
 - english: arrive there
   lastReviewFailures: 0
-  nextReview: 2024-04-26 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: sampai di sana / tiba di sana
 - english: tug of war
-  lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: tarik tambang
 - english: winner
   lastReviewFailures: 0
-  nextReview: 2024-07-10 12:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pemenang
 - english: river
   lastReviewFailures: 0
@@ -726,8 +726,8 @@ cards:
   target: sungai
 - english: waterfall
   lastReviewFailures: 0
-  nextReview: 2024-07-09 16:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: air terjun
 - english: song
   lastReviewFailures: 0
@@ -736,23 +736,23 @@ cards:
   target: lagu
 - english: dance
   lastReviewFailures: 0
-  nextReview: 2024-07-02 17:00:00
-  stage: 6
+  nextReview: 2025-01-24 13:00:00
+  stage: 7
   target: menari
 - english: laugh
-  lastReviewFailures: 1
-  nextReview: 2024-07-04 13:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-10-31 09:00:00
+  stage: 6
   target: tertawa
 - english: watch (object)
-  lastReviewFailures: 1
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-01 13:00:00
+  stage: 6
   target: jam tangan
 - english: stay over
-  lastReviewFailures: 1
-  nextReview: 2024-03-25 21:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: menginap
 - english: fan (object)
   lastReviewFailures: 0
@@ -761,8 +761,8 @@ cards:
   target: kipas angin
 - english: stop by
   lastReviewFailures: 0
-  nextReview: 2024-06-10 23:00:00
-  stage: 6
+  nextReview: 2025-01-31 17:00:00
+  stage: 7
   target: mampir
 - english: storage
   lastReviewFailures: 0
@@ -771,28 +771,28 @@ cards:
   target: gudang
 - english: glass
   lastReviewFailures: 0
-  nextReview: 2024-07-04 14:00:00
-  stage: 6
+  nextReview: 2025-01-31 17:00:00
+  stage: 7
   target: kaca / gelas
 - english: each
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: masing-masing
 - english: teak wood
-  lastReviewFailures: 0
-  nextReview: 2024-10-10 13:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-25 17:00:00
+  stage: 5
   target: kayu jati
 - english: pillow
   lastReviewFailures: 0
-  nextReview: 2024-07-09 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: bantal
 - english: wall
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 15:00:00
+  stage: 6
   target: tembok
 - english: leaf
   lastReviewFailures: 0
@@ -831,23 +831,23 @@ cards:
   target: mencuri
 - english: steal (big things)
   lastReviewFailures: 0
-  nextReview: 2024-06-26 16:00:00
-  stage: 4
+  nextReview: 2024-10-24 09:00:00
+  stage: 5
   target: merampok
 - english: gardening
   lastReviewFailures: 0
-  nextReview: 2024-07-09 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: berkebun
 - english: take care
   lastReviewFailures: 0
-  nextReview: 2024-07-04 21:00:00
-  stage: 5
+  nextReview: 2024-11-08 18:00:00
+  stage: 6
   target: merawat / jaga
 - english: decorative
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: hias
 - english: seed
   lastReviewFailures: 0
@@ -855,9 +855,9 @@ cards:
   stage: 8
   target: benih / biji
 - english: hang out
-  lastReviewFailures: 0
-  nextReview: 2024-06-22 21:00:00
-  stage: 3
+  lastReviewFailures: 1
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: nongkrong
 - english: example
   lastReviewFailures: 0
@@ -871,13 +871,13 @@ cards:
   target: mabuk
 - english: nature
   lastReviewFailures: 0
-  nextReview: 2024-10-10 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: alam
 - english: dive
   lastReviewFailures: 0
-  nextReview: 2024-07-13 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: menyelam
 - english: about
   lastReviewFailures: 0
@@ -886,13 +886,13 @@ cards:
   target: tentang
 - english: dig
   lastReviewFailures: 0
-  nextReview: 2024-06-26 13:00:00
-  stage: 4
+  nextReview: 2024-10-24 09:00:00
+  stage: 5
   target: menggali
 - english: shout
   lastReviewFailures: 0
-  nextReview: 2024-07-10 12:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: (ber)teriak
 - english: wind
   lastReviewFailures: 0
@@ -906,8 +906,8 @@ cards:
   target: layar
 - english: run
   lastReviewFailures: 0
-  nextReview: 2024-06-03 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: lari
 - english: bored
   lastReviewFailures: 0
@@ -925,39 +925,39 @@ cards:
   stage: 8
   target: gemuk / gendut
 - english: soccer
-  lastReviewFailures: 0
-  nextReview: 2024-07-04 20:00:00
-  stage: 5
+  lastReviewFailures: 2
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: sepak bola
 - english: martial arts
   lastReviewFailures: 0
-  nextReview: 2024-06-27 20:00:00
-  stage: 4
+  nextReview: 2024-10-24 09:00:00
+  stage: 5
   target: pencak silat
 - english: member
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: anggota
 - english: sweat
   lastReviewFailures: 0
-  nextReview: 2024-07-18 20:00:00
-  stage: 6
+  nextReview: 2025-01-24 14:00:00
+  stage: 7
   target: berkeringat / keringatan
 - english: smile
-  lastReviewFailures: 0
-  nextReview: 2024-07-13 14:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: tersenyum
 - english: beard
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-25 18:00:00
+  stage: 5
   target: jenggot
 - english: line / strip
-  lastReviewFailures: 0
-  nextReview: 2024-08-18 04:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-25 18:00:00
+  stage: 5
   target: garis
 - english: absolutely
   lastReviewFailures: 0
@@ -966,8 +966,8 @@ cards:
   target: pasti
 - english: long enough
   lastReviewFailures: 0
-  nextReview: 2024-06-01 11:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: lumayan lama / cukup lama
 - english: so-so
   lastReviewFailures: 0
@@ -976,13 +976,13 @@ cards:
   target: lumayan
 - english: student
   lastReviewFailures: 0
-  nextReview: 2024-07-09 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: siswa / pelajar
 - english: most
   lastReviewFailures: 0
-  nextReview: 2024-07-10 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: kebanyakan
 - english: make
   lastReviewFailures: 0
@@ -990,14 +990,14 @@ cards:
   stage: 8
   target: bikin / buat
 - english: how next?
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 21:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-17 08:00:00
+  stage: 4
   target: selanjutnya gimana?
 - english: water (plants)
   lastReviewFailures: 0
-  nextReview: 2024-07-15 16:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: siram (tanaman)
 - english: alive / on
   lastReviewFailures: 0
@@ -1005,19 +1005,19 @@ cards:
   stage: 8
   target: hidup
 - english: experience
-  lastReviewFailures: 0
-  nextReview: 2024-07-10 12:00:00
-  stage: 7
+  lastReviewFailures: 2
+  nextReview: 2024-10-18 13:00:00
+  stage: 5
   target: pengalaman
 - english: get
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 15:00:00
+  stage: 6
   target: dapat
 - english: staff
   lastReviewFailures: 0
-  nextReview: 2024-07-10 12:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: karyawan
 - english: school
   lastReviewFailures: 0
@@ -1026,13 +1026,13 @@ cards:
   target: kuliah / sekolah
 - english: the best
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: terbaik
 - english: introduction
   lastReviewFailures: 0
-  nextReview: 2024-07-04 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: kenalkan
 - english: ever
   lastReviewFailures: 0
@@ -1060,9 +1060,9 @@ cards:
   stage: 8
   target: nikah
 - english: housewife
-  lastReviewFailures: 0
-  nextReview: 2024-06-18 17:00:00
-  stage: 5
+  lastReviewFailures: 1
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: IRT / ibu rumah tangga
 - english: teach
   lastReviewFailures: 0
@@ -1071,8 +1071,8 @@ cards:
   target: ngajar
 - english: messy
   lastReviewFailures: 0
-  nextReview: 2024-07-03 16:00:00
-  stage: 5
+  nextReview: 2024-11-09 12:00:00
+  stage: 6
   target: berantakan
 - english: want
   lastReviewFailures: 0
@@ -1081,18 +1081,18 @@ cards:
   target: mau / ingin / pengen
 - english: in a hurry
   lastReviewFailures: 0
-  nextReview: 2024-07-15 16:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: buru-buru
 - english: visit
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: mengunjungi
 - english: myself
-  lastReviewFailures: 0
-  nextReview: 2024-09-25 09:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: diri saya
 - english: yourself
   lastReviewFailures: 0
@@ -1106,13 +1106,13 @@ cards:
   target: dirinya
 - english: put
   lastReviewFailures: 0
-  nextReview: 2024-07-15 12:00:00
-  stage: 5
+  nextReview: 2024-11-08 17:00:00
+  stage: 6
   target: taruh
 - english: speaker
   lastReviewFailures: 0
-  nextReview: 2024-10-10 09:00:00
-  stage: 4
+  nextReview: 2024-10-25 18:00:00
+  stage: 5
   target: pembicara
 - english: to (somebody)
   lastReviewFailures: 0
@@ -1121,38 +1121,38 @@ cards:
   target: kepada
 - english: first
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: duluan / pertama
 - english: coconut milk
   lastReviewFailures: 0
-  nextReview: 2024-09-02 22:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: santan
 - english: jewelery
-  lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  lastReviewFailures: 1
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: perhiasan
 - english: watermelon
-  lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-25 18:00:00
+  stage: 5
   target: semangka
 - english: trust / believe
   lastReviewFailures: 0
-  nextReview: 2024-06-22 21:00:00
-  stage: 3
+  nextReview: 2024-10-19 11:00:00
+  stage: 4
   target: percaya
 - english: poisonous
   lastReviewFailures: 0
-  nextReview: 2024-08-18 04:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: beracun
 - english: meeting
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: rapat
 - english: rack
   lastReviewFailures: 0
@@ -1165,24 +1165,24 @@ cards:
   stage: 8
   target: lewat
 - english: archery
-  lastReviewFailures: 0
-  nextReview: 2024-09-25 09:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-24 09:00:00
+  stage: 5
   target: memanah
 - english: airplane
   lastReviewFailures: 0
-  nextReview: 2024-07-09 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pesawat
 - english: flight
   lastReviewFailures: 0
-  nextReview: 2024-07-29 13:00:00
-  stage: 6
+  nextReview: 2025-01-31 18:00:00
+  stage: 7
   target: penerbangan
 - english: steward / stewardess (plane)
   lastReviewFailures: 0
-  nextReview: 2024-09-25 12:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pramugari
 - english: last call
   lastReviewFailures: 0
@@ -1191,8 +1191,8 @@ cards:
   target: panggilan terakhir
 - english: a little bit longer
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-02-01 12:00:00
+  stage: 7
   target: sedikit lebih lama
 - english: included
   lastReviewFailures: 0
@@ -1200,49 +1200,49 @@ cards:
   stage: 8
   target: termasuk
 - english: carry (person)
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: gendong
 - english: sticky
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: lengket
 - english: sand
-  lastReviewFailures: 0
-  nextReview: 2024-06-20 14:00:00
-  stage: 5
+  lastReviewFailures: 1
+  nextReview: 2024-10-14 12:00:00
+  stage: 3
   target: pasir
 - english: not yet
-  lastReviewFailures: 1
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  lastReviewFailures: 0
+  nextReview: 2024-11-07 12:00:00
+  stage: 6
   target: belum pernah
 - english: type
   lastReviewFailures: 0
-  nextReview: 2024-07-10 12:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: jenis
 - english: pluck out / pick off
   lastReviewFailures: 0
-  nextReview: 2024-09-02 22:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: petik
 - english: shade
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-31 17:00:00
+  stage: 7
   target: teduh
 - english: scary
   lastReviewFailures: 0
-  nextReview: 2024-07-29 14:00:00
-  stage: 6
+  nextReview: 2025-01-31 17:00:00
+  stage: 7
   target: menakutkan
 - english: scared
   lastReviewFailures: 0
-  nextReview: 2024-09-02 22:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: takut
 - english: otherwise / if not
   lastReviewFailures: 0
@@ -1251,253 +1251,253 @@ cards:
   target: kalau tidak
 - english: both
   lastReviewFailures: 0
-  nextReview: 2024-06-27 20:00:00
-  stage: 4
+  nextReview: 2024-10-24 12:00:00
+  stage: 5
   target: keduanya
 - english: honestly
   lastReviewFailures: 0
-  nextReview: 2024-06-22 20:00:00
-  stage: 3
+  nextReview: 2024-10-25 17:00:00
+  stage: 5
   target: jujur
 - english: method / way
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: cara
 - english: actually
   lastReviewFailures: 0
-  nextReview: 2024-07-03 12:00:00
-  stage: 6
+  nextReview: 2025-01-24 13:00:00
+  stage: 7
   target: sebenarnya
 - english: compare
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: bandingkan
 - english: better
   lastReviewFailures: 0
-  nextReview: 2024-06-21 13:00:00
-  stage: 3
+  nextReview: 2024-10-26 11:00:00
+  stage: 5
   target: mendingan / lebih baik
 - english: besides
   lastReviewFailures: 0
-  nextReview: 2024-07-14 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: selain
 - english: wise
   lastReviewFailures: 0
-  nextReview: 2024-07-29 14:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: bijak
 - english: reason
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-14 11:00:00
+  stage: 3
   target: alasan
 - english: old
   lastReviewFailures: 0
-  nextReview: 2024-07-13 15:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: tua / jadul
 - english: sunny
   lastReviewFailures: 0
-  nextReview: 2024-07-13 15:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: cerah
 - english: hopefully
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: mudah-mudahan / semoga
 - english: shape
   lastReviewFailures: 0
-  nextReview: 2024-02-14 18:00:00
-  stage: 3
+  nextReview: 2024-10-16 15:00:00
+  stage: 4
   target: bentuk
 - english: group / colony
   lastReviewFailures: 0
-  nextReview: 2024-07-04 14:00:00
-  stage: 6
+  nextReview: 2025-01-31 18:00:00
+  stage: 7
   target: kelompok
 - english: lover
-  lastReviewFailures: 0
-  nextReview: 2024-08-18 04:00:00
-  stage: 7
+  lastReviewFailures: 1
+  nextReview: 2024-10-18 14:00:00
+  stage: 5
   target: pecinta
 - english: jackfruit
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 08:00:00
+  stage: 6
   target: nangka
 - english: certain
   lastReviewFailures: 0
-  nextReview: 2024-09-25 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: tertentu
 - english: favourite
   lastReviewFailures: 0
-  nextReview: 2024-07-10 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: kesukaan
 - english: nervous
   lastReviewFailures: 0
-  nextReview: 2024-07-10 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: gugup
 - english: press
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pencet / tekan
 - english: reminder
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: pengingat
 - english: sentence
   lastReviewFailures: 0
-  nextReview: 2024-07-15 16:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: kalimat
 - english: o'clock
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pukul
 - english: punch
-  lastReviewFailures: 1
-  nextReview: 2024-06-26 13:00:00
-  stage: 4
+  lastReviewFailures: 0
+  nextReview: 2024-10-24 08:00:00
+  stage: 5
   target: pukulan
 - english: acquaintance
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
+  nextReview: 2024-10-13 18:00:00
   stage: 3
   target: kenalan
 - english: tasteless
   lastReviewFailures: 0
-  nextReview: 2024-09-26 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: hambar / tawar
 - english: next to (something)
   lastReviewFailures: 0
-  nextReview: 2024-02-16 11:00:00
-  stage: 3
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: di sebelah / di samping
 - english: (time) later
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-30 09:00:00
+  stage: 7
   target: lalu / kemudian
 - english: fixed / perfect
   lastReviewFailures: 0
-  nextReview: 2024-10-10 20:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pas
 - english: make less
   lastReviewFailures: 0
-  nextReview: 2024-09-02 22:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: kurangi
 - english: satisfied
   lastReviewFailures: 0
-  nextReview: 2024-09-25 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: puas
 - english: speed
-  lastReviewFailures: 1
-  nextReview: 2024-06-22 08:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: kecepatan
 - english: guide / trainer (person)
-  lastReviewFailures: 1
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-19 12:00:00
+  stage: 4
   target: pemandu / pelatih
 - english: do nothing
   lastReviewFailures: 0
-  nextReview: 2024-09-02 22:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: tidak lakukan apa-apa
 - english: Christmas
   lastReviewFailures: 0
-  nextReview: 2024-07-13 15:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: Natal
 - english: paddy
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: padi
 - english: starfruit
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: belimbing
 - english: bittermelon
   lastReviewFailures: 0
-  nextReview: 2024-09-24 17:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pare
 - english: boil
   lastReviewFailures: 0
-  nextReview: 2024-07-13 15:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: rebus
 - english: steam
   lastReviewFailures: 0
-  nextReview: 2024-06-27 21:00:00
-  stage: 4
+  nextReview: 2024-10-18 13:00:00
+  stage: 5
   target: kukus
 - english: strange / weird
   lastReviewFailures: 0
-  nextReview: 2024-07-10 16:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: aneh
 - english: climb
   lastReviewFailures: 0
-  nextReview: 2024-09-25 09:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: mendaki
 - english: tent
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-23 15:00:00
+  stage: 5
   target: tenda
 - english: foldable chair
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-23 15:00:00
+  stage: 5
   target: kursi lipat
 - english: flashlight
   lastReviewFailures: 0
-  nextReview: 2024-09-26 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: senter
 - english: sleeping bag
   lastReviewFailures: 0
-  nextReview: 2024-03-25 15:00:00
-  stage: 3
+  nextReview: 2024-10-17 09:00:00
+  stage: 4
   target: kasur gunung
 - english: map
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: peta
 - english: swiss knife
   lastReviewFailures: 0
-  nextReview: 2024-09-02 22:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: pisau lipat
 - english: character (outward)
   lastReviewFailures: 0
-  nextReview: 2024-06-21 13:00:00
-  stage: 2
+  nextReview: 2024-10-14 11:00:00
+  stage: 3
   target: ciri
 - english: special
   lastReviewFailures: 0
-  nextReview: 2024-07-29 14:00:00
-  stage: 6
+  nextReview: 2025-01-24 14:00:00
+  stage: 7
   target: khas
 - english: even though
   lastReviewFailures: 0
@@ -1506,63 +1506,63 @@ cards:
   target: meskipun
 - english: area
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-30 09:00:00
+  stage: 7
   target: daerah
 - english: snack
   lastReviewFailures: 0
-  nextReview: 2024-06-22 13:00:00
-  stage: 3
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: makanan ringan
 - english: fat (ingredient)
   lastReviewFailures: 0
-  nextReview: 2024-09-25 09:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: lemak
 - english: without
   lastReviewFailures: 0
-  nextReview: 2024-09-26 14:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: tanpa
 - english: polite
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: sopan
 - english: watery (food)
   lastReviewFailures: 0
-  nextReview: 2024-06-12 09:00:00
-  stage: 4
+  nextReview: 2024-10-18 13:00:00
+  stage: 5
   target: berkuah
 - english: considered
   lastReviewFailures: 0
-  nextReview: 2024-07-15 14:00:00
-  stage: 5
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: dianggap
 - english: in general
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: secara umum
 - english: clear
   lastReviewFailures: 0
-  nextReview: 2024-09-24 18:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: jelas
 - english: explain
   lastReviewFailures: 0
-  nextReview: 2024-09-24 17:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: jelaskan
 - english: quiet
   lastReviewFailures: 0
-  nextReview: 2024-07-01 20:00:00
-  stage: 1
+  nextReview: 2024-10-14 10:00:00
+  stage: 3
   target: (pen)diam
 - english: midway
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-01 13:00:00
+  stage: 6
   target: pertengahan jalan
 - english: depth
   lastReviewFailures: 0
@@ -1571,28 +1571,28 @@ cards:
   target: kedalaman
 - english: the more (...)
   lastReviewFailures: 0
-  nextReview: 2024-06-10 22:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: semakin
 - english: crab
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-31 17:00:00
+  stage: 7
   target: kepiting
 - english: interesting
   lastReviewFailures: 0
-  nextReview: 2024-07-10 16:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: menarik
 - english: important
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-30 08:00:00
+  stage: 7
   target: penting
 - english: cry
   lastReviewFailures: 0
-  nextReview: 2024-06-21 21:00:00
-  stage: 2
+  nextReview: 2024-10-19 11:00:00
+  stage: 4
   target: menangis
 - english: balance
   lastReviewFailures: 0
@@ -1601,93 +1601,88 @@ cards:
   target: seimbang
 - english: horse cart
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2025-01-31 18:00:00
+  stage: 7
   target: kereta kuda
 - english: shark
   lastReviewFailures: 0
-  nextReview: 2024-07-29 14:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: hiu
 - english: shy
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2025-01-30 09:00:00
+  stage: 7
   target: malu
 - english: hungry
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: lapar
 - english: rule (abstract)
   lastReviewFailures: 0
-  nextReview: 2024-10-05 09:00:00
-  stage: 3
+  nextReview: 2024-10-17 09:00:00
+  stage: 4
   target: aturan
 - english: atmosphere / environment
-  lastReviewFailures: 1
-  nextReview: 2024-03-24 22:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: suasana
 - english: view (noun)
   lastReviewFailures: 1
-  nextReview: 2024-06-19 17:00:00
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: pemandangan
 - english: feel sorry
   lastReviewFailures: 0
-  nextReview: 2024-07-02 17:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: kasihan
 - english: port
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2025-01-31 18:00:00
+  stage: 7
   target: pelabuhan
 - english: grave / tomb
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 15:00:00
+  stage: 6
   target: kuburan
 - english: one of them
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
+  nextReview: 2024-10-19 11:00:00
   stage: 4
   target: salah satunya
 - english: capital city
   lastReviewFailures: 0
-  nextReview: 2024-07-04 14:00:00
-  stage: 6
+  nextReview: 2025-01-29 15:00:00
+  stage: 7
   target: ibu kota
 - english: culture
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-30 08:00:00
+  stage: 7
   target: budaya
 - english: history
   lastReviewFailures: 1
-  nextReview: 2024-07-01 22:00:00
-  stage: 1
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: sejarah
 - english: flood
   lastReviewFailures: 0
-  nextReview: 2024-10-10 20:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: banjir
 - english: enrich
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 20:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-19 12:00:00
+  stage: 4
   target: memperkaya
-- english: keep
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 16:00:00
-  stage: 0
-  target: menyimpan
 - english: tax
   lastReviewFailures: 0
-  nextReview: 2024-06-22 13:00:00
-  stage: 3
+  nextReview: 2024-10-19 10:00:00
+  stage: 4
   target: pajak
 - english: patient (adjective)
   lastReviewFailures: 0
@@ -1695,474 +1690,474 @@ cards:
   stage: 6
   target: sabar
 - english: era
-  lastReviewFailures: 1
-  nextReview: 2024-06-22 21:00:00
-  stage: 3
+  lastReviewFailures: 0
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: zaman
 - english: kingdom
   lastReviewFailures: 0
-  nextReview: 2024-07-02 12:00:00
-  stage: 2
+  nextReview: 2024-10-17 08:00:00
+  stage: 4
   target: kerajaan
 - english: side
-  lastReviewFailures: 1
-  nextReview: 2024-06-07 14:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-14 12:00:00
+  stage: 3
   target: sisi / pinggir
 - english: ferry
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: kapal laut
 - english: weather
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: cuaca
 - english: windy
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: berangin
 - english: cool (weather)
-  lastReviewFailures: 1
-  nextReview: 2024-10-03 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: sejuk
 - english: cloudy (white clouds)
-  lastReviewFailures: 1
-  nextReview: 2024-10-03 17:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-14 12:00:00
+  stage: 3
   target: berawan
 - english: snowy
   lastReviewFailures: 0
-  nextReview: 2024-07-04 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: bersalju
 - english: stormy
   lastReviewFailures: 0
-  nextReview: 2024-06-20 13:00:00
-  stage: 2
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: badai
 - english: rainbow
   lastReviewFailures: 0
-  nextReview: 2024-07-05 08:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: pelangi
 - english: thunder
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: guntur
 - english: lightning
-  lastReviewFailures: 0
-  nextReview: 2024-06-26 13:00:00
-  stage: 4
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: petir
 - english: foggy
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: berkabut
 - english: I think so
   lastReviewFailures: 0
-  nextReview: 2024-06-21 04:00:00
-  stage: 1
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: sepertinya begitu
 - english: by the way
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-01 13:00:00
+  stage: 6
   target: ngomong-ngomong
 - english: dry season
   lastReviewFailures: 0
-  nextReview: 2024-06-26 13:00:00
-  stage: 4
+  nextReview: 2024-10-25 17:00:00
+  stage: 5
   target: musim kemarau / musim panas
 - english: spring (season)
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-31 18:00:00
+  stage: 7
   target: musim semi
 - english: autumn
-  lastReviewFailures: 1
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: musim gugur
 - english: lately
-  lastReviewFailures: 1
-  nextReview: 2024-03-23 23:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: belakangan ini / akhir-akhir ini
 - english: happen
-  lastReviewFailures: 1
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: terjadi
 - english: air
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 02:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: udara
 - english: touristic
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: wisata
 - english: drawback
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 15:00:00
+  stage: 6
   target: kekurangan
 - english: entering
   lastReviewFailures: 0
-  nextReview: 2024-10-10 09:00:00
-  stage: 4
+  nextReview: 2024-10-25 17:00:00
+  stage: 5
   target: memasuki
 - english: if
   lastReviewFailures: 0
-  nextReview: 2024-04-03 12:00:00
-  stage: 5
+  nextReview: 2024-11-08 18:00:00
+  stage: 6
   target: kalau / jika
 - english: firework
   lastReviewFailures: 1
-  nextReview: 2024-06-21 12:00:00
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: kembang api
 - english: catch
   lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: tangkap
 - english: three (people)
   lastReviewFailures: 0
-  nextReview: 2024-06-22 13:00:00
-  stage: 3
+  nextReview: 2024-10-17 09:00:00
+  stage: 4
   target: bertiga
 - english: self defense
   lastReviewFailures: 0
-  nextReview: 2024-03-30 14:00:00
-  stage: 4
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: bela diri
 - english: contact
   lastReviewFailures: 0
-  nextReview: 2024-06-13 14:00:00
-  stage: 4
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: hubungi
 - english: movement
   lastReviewFailures: 0
-  nextReview: 2024-06-20 14:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: gerakan
 - english: jump
-  lastReviewFailures: 1
-  nextReview: 2024-06-19 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: lompat
 - english: low
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-24 13:00:00
+  stage: 7
   target: rendah
 - english: come afterward
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: menyusul
 - english: temperature
   lastReviewFailures: 0
-  nextReview: 2024-07-08 14:00:00
-  stage: 4
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: suhu
 - english: humid
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: lembab
 - english: degree (Celsius)
   lastReviewFailures: 0
-  nextReview: 2024-06-21 04:00:00
-  stage: 1
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: derajat
 - english: since when?
   lastReviewFailures: 0
-  nextReview: 2024-06-19 09:00:00
-  stage: 5
+  nextReview: 2024-11-07 12:00:00
+  stage: 6
   target: sejak kapan?
 - english: seaweed
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: rumput laut
 - english: confused
   lastReviewFailures: 0
-  nextReview: 2024-10-04 09:00:00
+  nextReview: 2024-10-13 12:00:00
   stage: 2
   target: bingung
 - english: fix
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  nextReview: 2024-10-26 11:00:00
+  stage: 5
   target: memperbaiki
 - english: dying
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: sekarat
 - english: emergency
   lastReviewFailures: 0
-  nextReview: 2024-07-18 20:00:00
-  stage: 6
+  nextReview: 2025-01-30 09:00:00
+  stage: 7
   target: darurat
 - english: worried
   lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  nextReview: 2024-10-19 12:00:00
+  stage: 4
   target: cemas / khawatir
 - english: think
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-30 08:00:00
+  stage: 7
   target: kira / pikir
 - english: approximately
   lastReviewFailures: 0
-  nextReview: 2024-07-17 16:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: kira-kira
 - english: overtime
-  lastReviewFailures: 3
-  nextReview: 2024-10-03 13:00:00
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: lembur
 - english: health
   lastReviewFailures: 0
-  nextReview: 2024-05-12 04:00:00
-  stage: 5
+  nextReview: 2024-11-09 12:00:00
+  stage: 6
   target: kesehatan
 - english: coworker
   lastReviewFailures: 0
-  nextReview: 2024-07-17 16:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: teman kerja / rekan kerja
 - english: day after tomorrow
   lastReviewFailures: 0
-  nextReview: 2024-07-08 12:00:00
-  stage: 4
+  nextReview: 2024-10-25 17:00:00
+  stage: 5
   target: lusa
 - english: it is better
   lastReviewFailures: 1
-  nextReview: 2024-06-19 21:00:00
-  stage: 1
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: sebaiknya
 - english: tell a story
   lastReviewFailures: 0
-  nextReview: 2024-07-18 21:00:00
-  stage: 6
+  nextReview: 2025-01-29 15:00:00
+  stage: 7
   target: ceritakan
 - english: best friend
-  lastReviewFailures: 3
-  nextReview: 2024-10-03 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: sahabat
 - english: talkative
   lastReviewFailures: 0
-  nextReview: 2024-06-21 13:00:00
-  stage: 3
+  nextReview: 2024-10-25 18:00:00
+  stage: 5
   target: cerewet
 - english: diligent
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  nextReview: 2024-10-17 08:00:00
+  stage: 4
   target: rajin
 - english: arrogant
   lastReviewFailures: 0
-  nextReview: 2024-06-22 20:00:00
-  stage: 3
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: sombong
 - english: stingy
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: pelit
 - english: easy-going
   lastReviewFailures: 0
-  nextReview: 2024-07-03 14:00:00
-  stage: 3
+  nextReview: 2024-10-24 09:00:00
+  stage: 5
   target: mudah bergaul
 - english: neat
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 08:00:00
+  stage: 6
   target: rapi
 - english: confident
   lastReviewFailures: 0
-  nextReview: 2024-07-08 14:00:00
-  stage: 4
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: percaya diri
 - english: cruel
   lastReviewFailures: 1
-  nextReview: 2024-06-21 01:00:00
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: kejam
 - english: calm
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 01:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: tenang
 - english: brave
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: berani
 - english: character (inner)
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 13:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-19 11:00:00
+  stage: 4
   target: sifat
 - english: pretend
   lastReviewFailures: 0
-  nextReview: 2024-06-19 14:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: pura-pura
 - english: superior (person)
   lastReviewFailures: 0
-  nextReview: 2024-06-22 20:00:00
-  stage: 3
+  nextReview: 2024-10-19 12:00:00
+  stage: 4
   target: atasan
 - english: subordinate
   lastReviewFailures: 0
-  nextReview: 2024-06-27 20:00:00
+  nextReview: 2024-10-19 12:00:00
   stage: 4
   target: bawahan
 - english: secret
-  lastReviewFailures: 0
-  nextReview: 2024-06-21 05:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: rahasia
 - english: answer
   lastReviewFailures: 0
-  nextReview: 2024-07-18 20:00:00
-  stage: 6
+  nextReview: 2025-01-31 18:00:00
+  stage: 7
   target: jawab
 - english: responsible
-  lastReviewFailures: 0
-  nextReview: 2024-06-21 04:00:00
-  stage: 1
+  lastReviewFailures: 3
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: bertanggung jawab
 - english: offended
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: tersinggung
 - english: stupid
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2024-10-25 18:00:00
+  stage: 5
   target: konyol
 - english: sure
   lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
+  nextReview: 2024-10-12 20:00:00
   stage: 1
   target: yakin
 - english: lose
-  lastReviewFailures: 1
-  nextReview: 2024-03-20 18:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: kalah
 - english: small talk
   lastReviewFailures: 0
-  nextReview: 2024-07-04 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 08:00:00
+  stage: 6
   target: basa-basi / ngobrol
 - english: joking
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: bercanda
 - english: kind
   lastReviewFailures: 0
-  nextReview: 2024-06-06 09:00:00
-  stage: 2
+  nextReview: 2024-10-14 10:00:00
+  stage: 3
   target: murah hati
 - english: on time
-  lastReviewFailures: 2
-  nextReview: 2024-10-03 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: tepat waktu
 - english: stubborn
   lastReviewFailures: 0
-  nextReview: 2024-06-11 18:00:00
-  stage: 4
+  nextReview: 2024-10-17 09:00:00
+  stage: 5
   target: keras kepala
 - english: independent
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: mandiri
 - english: noticed
   lastReviewFailures: 0
-  nextReview: 2024-07-01 20:00:00
-  stage: 1
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: diperhatikan
 - english: thing
   lastReviewFailures: 0
-  nextReview: 2024-07-18 13:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: hal
 - english: economical
   lastReviewFailures: 0
-  nextReview: 2024-06-21 05:00:00
+  nextReview: 2024-10-12 18:00:00
   stage: 1
   target: irit
 - english: wasteful
   lastReviewFailures: 0
-  nextReview: 2024-07-04 21:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: boros
 - english: businessman / businesswoman
   lastReviewFailures: 0
-  nextReview: 2024-06-21 05:00:00
+  nextReview: 2024-10-12 20:00:00
   stage: 1
   target: pengusaha
 - english: country
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-30 08:00:00
+  stage: 7
   target: negara / negeri
 - english: boxing
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 04:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: tinju
 - english: face
   lastReviewFailures: 0
-  nextReview: 2024-06-21 13:00:00
-  stage: 2
+  nextReview: 2024-10-14 10:00:00
+  stage: 3
   target: wajah / muka
 - english: distance
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 01:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: jarak
 - english: forehead
-  lastReviewFailures: 2
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: dahi
 - english: eyeball
   lastReviewFailures: 0
-  nextReview: 2024-06-10 23:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: bola mata
 - english: eyelash
-  lastReviewFailures: 1
-  nextReview: 2024-10-04 09:00:00
-  stage: 2
+  lastReviewFailures: 0
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: bulu mata
 - english: eyebrow
   lastReviewFailures: 0
-  nextReview: 2024-07-17 13:00:00
-  stage: 6
+  nextReview: 2025-01-30 09:00:00
+  stage: 7
   target: alis
 - english: hair
   lastReviewFailures: 0
@@ -2176,898 +2171,921 @@ cards:
   target: mata
 - english: ear
   lastReviewFailures: 0
-  nextReview: 2024-06-19 09:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: telinga
 - english: cheek
   lastReviewFailures: 0
-  nextReview: 2024-07-03 16:00:00
-  stage: 5
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: pipi
 - english: nose
   lastReviewFailures: 0
-  nextReview: 2024-07-18 13:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: hidung
 - english: neck
   lastReviewFailures: 0
-  nextReview: 2024-07-03 14:00:00
-  stage: 3
+  nextReview: 2024-10-16 15:00:00
+  stage: 4
   target: leher
 - english: mouth
   lastReviewFailures: 0
-  nextReview: 2024-07-29 13:00:00
-  stage: 6
+  nextReview: 2025-01-31 18:00:00
+  stage: 7
   target: mulut
 - english: tooth
   lastReviewFailures: 0
-  nextReview: 2024-07-03 09:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: gigi
 - english: tongue
   lastReviewFailures: 0
-  nextReview: 2024-07-18 20:00:00
-  stage: 6
+  nextReview: 2025-01-23 09:00:00
+  stage: 7
   target: lidah
 - english: chin
   lastReviewFailures: 1
-  nextReview: 2024-10-03 13:00:00
-  stage: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: dagu
 - english: moustache
   lastReviewFailures: 0
-  nextReview: 2024-10-10 09:00:00
-  stage: 4
+  nextReview: 2024-10-25 17:00:00
+  stage: 5
   target: kumis
 - english: shoulder
-  lastReviewFailures: 0
-  nextReview: 2024-10-03 17:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: bahu
 - english: chest
   lastReviewFailures: 0
-  nextReview: 2024-07-02 18:00:00
-  stage: 6
+  nextReview: 2025-01-29 14:00:00
+  stage: 7
   target: dada
 - english: back
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-19 10:00:00
+  stage: 4
   target: punggung
 - english: stomach
   lastReviewFailures: 0
-  nextReview: 2024-10-09 13:00:00
-  stage: 7
+  nextReview: null
+  stage: 8
   target: perut
 - english: elbow
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: siku
 - english: wrist
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: pergelangan
 - english: waist
-  lastReviewFailures: 2
-  nextReview: 2024-06-21 01:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: pinggang
 - english: thigh
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  lastReviewFailures: 3
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: paha
 - english: calf
-  lastReviewFailures: 1
-  nextReview: 2024-03-26 00:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-14 12:00:00
+  stage: 3
   target: betis
 - english: knee
   lastReviewFailures: 0
-  nextReview: 2024-10-05 09:00:00
-  stage: 3
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: lutut
 - english: thumb
-  lastReviewFailures: 0
-  nextReview: 2024-04-01 13:00:00
-  stage: 4
+  lastReviewFailures: 1
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: ibu jari
 - english: index finger
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 12:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: telunjuk
 - english: middle finger
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 08:00:00
+  stage: 6
   target: jari tengah
 - english: ring finger
   lastReviewFailures: 0
-  nextReview: 2024-07-03 14:00:00
-  stage: 3
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: jari manis
 - english: pinkie / little finger
-  lastReviewFailures: 1
-  nextReview: 2024-10-03 17:00:00
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
   stage: 1
   target: kelingking
 - english: related
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: berkaitan
 - english: touch
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 16:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: sentuh / menyentuh
 - english: condescending
   lastReviewFailures: 0
-  nextReview: 2024-06-21 20:00:00
-  stage: 2
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: merendahkan
 - english: receive
   lastReviewFailures: 0
-  nextReview: 2024-06-19 21:00:00
-  stage: 1
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: menerima
 - english: raise
   lastReviewFailures: 1
-  nextReview: 2024-06-21 01:00:00
-  stage: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: menaikkan
 - english: well...
   lastReviewFailures: 0
-  nextReview: 2024-07-02 14:00:00
-  stage: 2
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: nah...
 - english: injury
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: cidera
 - english: painful
-  lastReviewFailures: 1
-  nextReview: 2024-06-06 18:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: nyeri
 - english: wound
   lastReviewFailures: 0
-  nextReview: 2024-06-21 20:00:00
-  stage: 2
+  nextReview: 2024-10-19 12:00:00
+  stage: 4
   target: luka
 - english: sore
   lastReviewFailures: 2
-  nextReview: 2024-03-20 16:00:00
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: pegal
 - english: stings
-  lastReviewFailures: 0
-  nextReview: 2024-06-21 04:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 15:00:00
+  stage: 0
   target: perih
 - english: sprain
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 18:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: keseleo
 - english: massage
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-23 15:00:00
+  stage: 5
   target: pijat
 - english: check
   lastReviewFailures: 0
-  nextReview: 2024-06-26 13:00:00
-  stage: 4
+  nextReview: 2024-10-23 14:00:00
+  stage: 5
   target: periksa
 - english: swollen
   lastReviewFailures: 2
-  nextReview: 2024-06-06 18:00:00
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: bengkak
 - english: no wonder
   lastReviewFailures: 0
-  nextReview: 2024-06-08 14:00:00
-  stage: 3
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: pantas saja / pantesan
 - english: jellyfish
   lastReviewFailures: 0
-  nextReview: 2024-07-03 12:00:00
-  stage: 6
+  nextReview: 2025-01-30 12:00:00
+  stage: 7
   target: ubur-ubur
 - english: octopus
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: gurita
 - english: queue
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 01:00:00
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
   stage: 1
   target: antre
 - english: to tie
   lastReviewFailures: 0
-  nextReview: 2024-06-21 13:00:00
-  stage: 2
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: ikat
 - english: belt
-  lastReviewFailures: 3
-  nextReview: 2024-06-19 17:00:00
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: ikat pinggang
 - english: election
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-01 13:00:00
+  stage: 6
   target: pemilihan umum / pemilu
 - english: kick
   lastReviewFailures: 0
-  nextReview: 2024-10-03 17:00:00
-  stage: 1
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: cidera
 - english: hole
   lastReviewFailures: 0
-  nextReview: 2024-10-03 17:00:00
-  stage: 1
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: lubang
 - english: lump
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: benjolan
 - english: while
   lastReviewFailures: 0
-  nextReview: 2024-06-27 20:00:00
-  stage: 4
+  nextReview: 2024-10-18 13:00:00
+  stage: 5
   target: sambil / saat
 - english: cough
   lastReviewFailures: 1
-  nextReview: 2024-06-19 17:00:00
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: batuk
 - english: cold (illness)
-  lastReviewFailures: 3
-  nextReview: 2024-06-05 16:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: pilek
 - english: fever
-  lastReviewFailures: 1
-  nextReview: 2024-06-19 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: demam
 - english: toothpaste
   lastReviewFailures: 0
-  nextReview: 2024-06-28 08:00:00
-  stage: 4
+  nextReview: 2024-10-18 13:00:00
+  stage: 5
   target: odol / pasta gigi
 - english: not feeling well
-  lastReviewFailures: 1
-  nextReview: 2024-03-25 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: tidak enak badan
 - english: to have time
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 16:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: sempat / sempet
 - english: visit (a sick person)
-  lastReviewFailures: 2
-  nextReview: 2024-06-05 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: jenguk
 - english: get well soon
-  lastReviewFailures: 0
-  nextReview: 2024-06-21 20:00:00
+  lastReviewFailures: 1
+  nextReview: 2024-10-13 11:00:00
   stage: 2
   target: semoga cepat sembuh
 - english: like
-  lastReviewFailures: 1
-  nextReview: 2024-10-03 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: kayak / seperti
 - english: sneeze
-  lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: bersin
 - english: just in case
   lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: jaga-jaga
 - english: human
   lastReviewFailures: 0
-  nextReview: 2024-10-05 09:00:00
-  stage: 3
+  nextReview: 2024-10-19 12:00:00
+  stage: 4
   target: manusia
 - english: handle
-  lastReviewFailures: 1
-  nextReview: 2024-06-19 17:00:00
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: menangani
 - english: disease
   lastReviewFailures: 0
-  nextReview: 2024-06-21 16:00:00
-  stage: 1
+  nextReview: 2024-10-17 08:00:00
+  stage: 4
   target: penyakit
 - english: inpatient
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: rawat inap
 - english: uniform (clothing)
-  lastReviewFailures: 1
-  nextReview: 2024-06-20 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: seragam
 - english: so that
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: agar / biar
 - english: headache
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-08 18:00:00
+  stage: 6
   target: sakit kepala
 - english: diarrhea
   lastReviewFailures: 0
-  nextReview: 2024-07-04 21:00:00
-  stage: 5
+  nextReview: 2024-11-07 08:00:00
+  stage: 6
   target: diare
 - english: dengue
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 18:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: demam berdarah
 - english: permission
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: izin
 - english: heal / recover
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 12:00:00
+  stage: 2
   target: sembuh
 - english: symptom
-  lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: gejala
 - english: dizzy
   lastReviewFailures: 0
-  nextReview: 2024-06-21 13:00:00
-  stage: 3
+  nextReview: 2024-10-17 09:00:00
+  stage: 4
   target: pusing
 - english: nauseous
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: mual
 - english: vomit
-  lastReviewFailures: 1
-  nextReview: 2024-10-03 17:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: muntah
 - english: allergy
   lastReviewFailures: 0
-  nextReview: 2024-07-15 12:00:00
-  stage: 5
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: alergi
 - english: illness
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 16:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: penyakit
 - english: knowledge
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 12:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: ilmu
 - english: government
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: pemerintah
 - english: center (place)
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: pusat
 - english: community
   lastReviewFailures: 0
-  nextReview: 2024-07-02 14:00:00
-  stage: 2
+  nextReview: 2024-10-14 12:00:00
+  stage: 3
   target: masyarakat
 - english: crash
-  lastReviewFailures: 2
-  nextReview: 2024-06-21 00:00:00
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: tabrak
 - english: parrot
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-10-31 09:00:00
+  stage: 6
   target: burung beo
 - english: view
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: pemandangan
 - english: harvest
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 18:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: panen
 - english: step on
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: injak
 - english: save / keep
   lastReviewFailures: 0
-  nextReview: 2024-06-05 22:00:00
-  stage: 1
-  target: simpan
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
+  target: simpan / menyimpan
 - english: yeast
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: ragi
 - english: cancel
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: tidak jadi
 - english: so that
   lastReviewFailures: 0
-  nextReview: 2024-06-20 21:00:00
-  stage: 1
+  nextReview: 2024-10-13 12:00:00
+  stage: 2
   target: biar
 - english: dove
   lastReviewFailures: 0
-  nextReview: 2024-06-21 20:00:00
-  stage: 2
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: merpati
 - english: hunt
   lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
+  nextReview: 2024-10-12 18:00:00
   stage: 1
   target: berburu
 - english: male (animal)
-  lastReviewFailures: 2
-  nextReview: 2024-10-03 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: jantan
 - english: female (animal)
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 16:00:00
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: betina
 - english: forest
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 5
+  nextReview: 2024-11-06 14:00:00
+  stage: 6
   target: hutan
 - english: palace
-  lastReviewFailures: 0
-  nextReview: 2024-06-21 04:00:00
-  stage: 1
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: istana
 - english: goat
-  lastReviewFailures: 1
-  nextReview: 2024-06-05 17:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: kambing
 - english: rabbit
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-08 17:00:00
+  stage: 6
   target: kelinci
 - english: turtle (ground)
   lastReviewFailures: 0
-  nextReview: 2024-07-08 13:00:00
-  stage: 4
+  nextReview: 2024-10-18 13:00:00
+  stage: 5
   target: kura-kura
 - english: crocodile
-  lastReviewFailures: 1
-  nextReview: 2024-06-04 22:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 12:00:00
+  stage: 2
   target: buaya
 - english: zoo
   lastReviewFailures: 0
-  nextReview: 2024-07-08 12:00:00
-  stage: 4
+  nextReview: 2024-10-25 18:00:00
+  stage: 5
   target: kebun binatang
 - english: wild
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 01:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: liar
 - english: survive
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: bertahan hidup
 - english: mortal / living thing
-  lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: makhluk hidup
 - english: used
   lastReviewFailures: 0
-  nextReview: 2024-07-02 12:00:00
-  stage: 2
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: digunakan
 - english: benign / tame
-  lastReviewFailures: 4
-  nextReview: 2024-06-05 18:00:00
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: jinak
 - english: rough
-  lastReviewFailures: 1
-  nextReview: 2024-06-19 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: kasar
 - english: the main thing is
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 12:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: intinya
 - english: difference
   lastReviewFailures: 0
-  nextReview: 2024-07-02 12:00:00
-  stage: 2
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: perbedaan
 - english: because
   lastReviewFailures: 0
-  nextReview: 2024-07-15 13:00:00
-  stage: 5
+  nextReview: 2024-11-07 09:00:00
+  stage: 6
   target: soalnya / karena
 - english: urban
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 01:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: perkotaan
 - english: livestock
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: hewan ternak
 - english: make a loss
   lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  nextReview: 2024-10-14 10:00:00
+  stage: 3
   target: rugi
 - english: profit
   lastReviewFailures: 0
-  nextReview: 2024-06-21 04:00:00
-  stage: 1
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: untung
 - english: boarding house
   lastReviewFailures: 0
-  nextReview: 2024-06-22 20:00:00
-  stage: 3
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: kos-kosan
 - english: fierce
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: galak
 - english: because (blaming)
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 18:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: gara-gara
 - english: bull
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-19 10:00:00
+  stage: 4
   target: banteng
 - english: camel
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: unta
 - english: fox
   lastReviewFailures: 0
-  nextReview: 2024-07-01 21:00:00
-  stage: 1
+  nextReview: 2024-10-14 10:00:00
+  stage: 3
   target: rubah
 - english: hawk
-  lastReviewFailures: 1
-  nextReview: 2024-05-14 02:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: elang
 - english: peacock
-  lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
-  stage: 3
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: merak
 - english: chamaleon
   lastReviewFailures: 0
-  nextReview: 2024-10-10 09:00:00
-  stage: 4
+  nextReview: 2024-10-25 17:00:00
+  stage: 5
   target: bunglon
 - english: sheep
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: domba
 - english: (Siamese) fighting fish
-  lastReviewFailures: 1
-  nextReview: 2024-06-21 00:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: cupang
 - english: gold
-  lastReviewFailures: 2
-  nextReview: 2024-06-06 18:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: emas
 - english: deer
   lastReviewFailures: 0
-  nextReview: 2024-06-22 08:00:00
-  stage: 2
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: rusa
 - english: giraffe
   lastReviewFailures: 0
-  nextReview: 2024-06-19 21:00:00
-  stage: 1
+  nextReview: 2024-10-14 11:00:00
+  stage: 3
   target: jerapah
 - english: shell / clam
-  lastReviewFailures: 3
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: kerang
 - english: stingray
   lastReviewFailures: 2
-  nextReview: 2024-06-05 18:00:00
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: pari
 - english: swan
   lastReviewFailures: 0
-  nextReview: 2024-06-20 16:00:00
-  stage: 2
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: angsa
 - english: mop
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: ngepel
 - english: bedsheet
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-13 17:00:00
+  stage: 3
   target: seprai
 - english: towel
   lastReviewFailures: 0
-  nextReview: 2024-07-02 12:00:00
-  stage: 2
+  nextReview: 2024-10-18 18:00:00
+  stage: 4
   target: handuk
 - english: wipe / cloth
   lastReviewFailures: 0
-  nextReview: 2024-07-03 13:00:00
+  nextReview: 2024-10-13 18:00:00
   stage: 3
   target: lap
 - english: power / energy
-  nextReview: 2024-06-20 20:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: tenaga
 - english: running a business
-  lastReviewFailures: 0
-  nextReview: 2024-06-21 20:00:00
-  stage: 2
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: menjalani bisnis
 - english: snacking
-  nextReview: 2024-06-20 20:00:00
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
   stage: 1
   target: ngemil
 - english: suggestion
   lastReviewFailures: 0
-  nextReview: 2024-06-21 20:00:00
+  nextReview: 2024-10-13 11:00:00
   stage: 2
   target: saran
 - english: spend (time, money)
-  nextReview: 2024-06-20 20:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: ngabisin
 - english: merchandise
-  nextReview: 2024-06-20 20:00:00
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
   stage: 1
   target: dagangan
 - english: cleaning up / packing
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: beres-beres
 - english: face / deal with
   lastReviewFailures: 1
-  nextReview: 2024-07-01 18:00:00
+  nextReview: 2024-10-12 15:00:00
   stage: 0
   target: menghadapi
 - english: useless
-  lastReviewFailures: 1
-  nextReview: 2024-10-03 17:00:00
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
   stage: 1
   target: sia-sia
 - english: start
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: mengawali
 - english: especially
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: terutama
 - english: light (weight)
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: ringan
 - english: tired
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-13 18:00:00
+  stage: 3
   target: lelah / capek
 - english: prevent / avoid
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: mencegah
 - english: contain / conceive
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: mengandung
 - english: increase
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 15:00:00
+  stage: 0
   target: meningkatkan
 - english: stay away
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: jauhi
 - english: excessive
-  lastReviewFailures: 2
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: berlebihan
 - english: bother / disturb
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: mengganggu
 - english: decrease / lessen
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: mengurangi
 - english: worry / fear
-  nextReview: 2024-07-01 12:00:00
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
   stage: 1
   target: kecemasan
 - english: remember
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-19 10:00:00
+  stage: 4
   target: hafal / ingat
 - english: to spell
   lastReviewFailures: 1
-  nextReview: 2024-07-01 18:00:00
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: eja
 - english: rub
-  lastReviewFailures: 1
-  nextReview: 2024-10-03 13:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: gosok
 - english: liquid / fluid
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 12:00:00
+  stage: 2
   target: cair
 - english: guess
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 4
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: tebak
 - english: based on
-  lastReviewFailures: 3
-  nextReview: 2024-07-01 16:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 19:00:00
+  stage: 1
   target: berdasarkan
 - english: determine
-  nextReview: 2024-07-01 12:00:00
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
   stage: 1
   target: tentukan
 - english: business
   lastReviewFailures: 0
-  nextReview: 2024-10-05 09:00:00
-  stage: 3
+  nextReview: 2024-10-16 14:00:00
+  stage: 4
   target: bisnis / usaha
 - english: guilty
   lastReviewFailures: 0
-  nextReview: 2024-10-04 09:00:00
-  stage: 2
+  nextReview: 2024-10-19 10:00:00
+  stage: 4
   target: bersalah
 - english: jail / prison
   lastReviewFailures: 0
-  nextReview: 2024-07-02 13:00:00
-  stage: 2
+  nextReview: 2024-10-14 10:00:00
+  stage: 3
   target: penjara
 - english: environment
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: lingkungan
 - english: taste / appetite
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 17:00:00
+  stage: 2
   target: selera
 - english: noisy
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: bising
 - english: as it happens / by chance
   lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: kebetulan
 - english: banner
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: spanduk
 - english: influence / affect
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 16:00:00
+  stage: 0
   target: mempengaruhi
 - english: style
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: gaya
 - english: reflect
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 11:00:00
+  stage: 2
   target: mencerminkan
 - english: organized
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 20:00:00
+  stage: 1
   target: tertata
 - english: calm / serenity
-  lastReviewFailures: 2
-  nextReview: 2024-07-01 17:00:00
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 16:00:00
   stage: 0
   target: ketenangan
 - english: farm
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 3
+  nextReview: 2024-10-12 15:00:00
+  stage: 0
   target: peternakan
 - english: title
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 1
   target: judul
 - english: bracelet
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 2
+  nextReview: 2024-10-12 14:00:00
+  stage: 0
   target: gelang
 - english: curly
-  lastReviewFailures: 3
-  nextReview: 2024-10-03 13:00:00
+  lastReviewFailures: 1
+  nextReview: 2024-10-12 14:00:00
   stage: 0
   target: keriting
 - english: average / mean
-  nextReview: 2024-07-01 12:00:00
-  stage: 1
+  lastReviewFailures: 0
+  nextReview: 2024-10-13 10:00:00
+  stage: 2
   target: rata-rata
 - english: grass
   lastReviewFailures: 0
-  nextReview: 2024-10-04 09:00:00
-  stage: 2
+  nextReview: 2024-10-18 17:00:00
+  stage: 4
   target: rumput
 - english: it should be
-  lastReviewFailures: 1
-  nextReview: 2024-07-01 17:00:00
-  stage: 0
+  lastReviewFailures: 0
+  nextReview: 2024-10-12 18:00:00
+  stage: 2
   target: harusnya

@@ -7,6 +7,8 @@ name       = "pypi"
 langchain-community = "*"
 pyqt5               = "*"
 pyyaml              = "*"
+langchain = "*"
+openai = "*"
 
 [dev-packages]
 
